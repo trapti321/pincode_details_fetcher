@@ -43,6 +43,6 @@ This app uses the Postal Pincode API. You can test the API by replacing {PINCODE
 
 https://api.postalpincode.in/pincode/{PINCODE}
 
-![Description](https://drive.google.com/file/d/1Nj-y6H6j2nxDbR82F7FYNzUk16yCjwsO/view?usp=drive_link)
+![Description](https://drive.google.com/drive/search?q=pincode)
 
 
