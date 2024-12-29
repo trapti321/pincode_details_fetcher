@@ -43,6 +43,6 @@ This app uses the Postal Pincode API. You can test the API by replacing {PINCODE
 
 https://api.postalpincode.in/pincode/{PINCODE}
 
-![Description](Pincode Details.gif)
+![Description](Pincode details.gif)
 
 
